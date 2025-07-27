@@ -70,19 +70,6 @@ Identificar **clientes com maior risco de evasão (churn)** em uma empresa de te
 
 ---
 
-##  Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/ajtoriani/telecomx-2
-
-2. Crie um ambiente virtual e instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   
-3. Execute o notebook TelecomX2.ipynb no Jupyter ou Google Colab.
----
-
 #  Observações
 Este projeto faz parte da trilha de formação em Data Science do programa Oracle One Next Education com a Alura.
 
