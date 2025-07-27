@@ -3,7 +3,7 @@
     <img class="company-logo__img" src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="Logo da empresa - Oracle ONE - Br Geral 8">
    
 
-# Challenge Telecom X 2
+# Challenge Telecom X - Análise de evasão de clientes - Parte 2
 
 Este repositório contém o desafio final de um estudo de caso (com exercício prático) integrante do curso do programa Oracle Next Education - Alura. O objetivo é continuar analisando dados de clientes de uma empresa fictícia de telecomunicações chamada Telecom X, visando entender as causas do alto índice de evasão (churn) dos clientes.
 
