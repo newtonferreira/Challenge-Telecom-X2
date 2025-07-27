@@ -3,15 +3,9 @@
     <img class="company-logo__img" src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="Logo da empresa - Oracle ONE - Br Geral 8">
    
 
-# Telecom X-2
+# Challenge Telecom X 2
 
-Projeto de **Data Science** desenvolvido como parte do **Desafio Final da Especialização em Data Science** da **Oracle One Next Education em parceria com a Alura**.
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/ajtoriani/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:anajuliatoriani@gmail.com)
+Este repositório contém o desafio final de um estudo de caso (com exercício prático) integrante do curso do programa Oracle Next Education - Alura. O objetivo é continuar analisando dados de clientes de uma empresa fictícia de telecomunicações chamada Telecom X, visando entender as causas do alto índice de evasão (churn) dos clientes.
 
 ---
 
