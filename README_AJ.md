@@ -74,26 +74,8 @@ Identificar **clientes com maior risco de evasão (churn)** em uma empresa de te
 Este projeto faz parte da trilha de formação em Data Science do programa Oracle One Next Education com a Alura.
 
 ---
-# Créditos
-Oracle Next Education — Alura
-
----
-
-##  Contribuições
-
-Como este é um projeto de aprendizado, sugestões e melhorias são bem-vindas! Fique à vontade para abrir **Issues** ou **Pull Requests**.
-
----
-
-##  Autor
-
-Desenvolvido por Ana Julia Toriani Pessoa durante os estudos com **Alura + Oracle Next Education**.
-
----
-
-##  Licença
-
-Projeto educacional sem fins comerciais.
+# Licença
+Este projeto, embora público, é apenas para fins educacionais e não deve ser utilizado comercialmente.
 
 ---
 
