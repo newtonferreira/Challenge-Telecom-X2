@@ -70,11 +70,11 @@ Identificar **clientes com maior risco de evasão (churn)** em uma empresa de te
 
 ---
 
-#  Observações
+##  Observações
 Este projeto faz parte da trilha de formação em Data Science do programa Oracle One Next Education com a Alura.
 
 ---
-# Licença
+##  Licença
 Este projeto, embora público, é apenas para fins educacionais e não deve ser utilizado comercialmente.
 
 ---
